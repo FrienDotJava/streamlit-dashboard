@@ -13,3 +13,4 @@ python-dateutil
 pytz
 requests
 rich
+babel
